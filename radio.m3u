@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-id="" tvg-name="Fréquence 2" tvg-language="French" tvg-logo="https://ulango.tv/uploads/channels/16278/logo_rti%205.png" group-title="",Fréquence 2
+https://www.enovativecdn.com:4433/radio/frequence2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vibe Radio" tvg-language="French" tvg-logo="https://i.imgur.com/J3o9RbS.png" group-title="",Vibe Radio
+http://217.182.132.143:8000/viberadio-ci.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nostalgie" tvg-language="French" tvg-logo="https://ulango.tv/uploads/channels/8150/rti_tv2_ci.png" group-title="",Radio Nostalgie
+http://213.136.96.14:8000/nostalgie.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Jam" tvg-language="French" tvg-logo="https://ulango.tv/uploads/channels/8150/rti_tv2_ci.png" group-title="",Radio Jam
+https://listen.radioking.com/radio/61201/stream/98881
