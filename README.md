@@ -8,7 +8,7 @@ Internet Protocol television (IPTV) is the delivery of television & radio conten
 
 To watch IPTV you just need to paste this link `https://raw.githubusercontent.com/lambirou/iptv/master/index.m3u` to any player with support M3U-playlists.
 
-![VLC Network Panel](preview.png)
+![VLC Network Panel](images/preview.png)
 
 Also you can instead use one of these playlists:
 
