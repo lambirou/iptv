@@ -1,8 +1,44 @@
-#EXTINF:-1 tvg-id="" tvg-name="Fréquence 2" tvg-language="French" tvg-logo="https://ulango.tv/uploads/channels/16278/logo_rti%205.png" group-title="",Fréquence 2
+#EXTINF:-1 tvg-id="" tvg-name="Fréquence 2" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/frequence2.png" group-title="",Fréquence 2
 https://www.enovativecdn.com:4433/radio/frequence2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vibe Radio" tvg-language="French" tvg-logo="https://i.imgur.com/J3o9RbS.png" group-title="",Vibe Radio
+
+#EXTINF:-1 tvg-id="" tvg-name="Vibe Radio" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/viberadio.png" group-title="",Vibe Radio
 http://217.182.132.143:8000/viberadio-ci.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Nostalgie" tvg-language="French" tvg-logo="https://ulango.tv/uploads/channels/8150/rti_tv2_ci.png" group-title="",Radio Nostalgie
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nostalgie" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/radio-nostalgie.png" group-title="",Radio Nostalgie
 http://213.136.96.14:8000/nostalgie.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Jam" tvg-language="French" tvg-logo="https://ulango.tv/uploads/channels/8150/rti_tv2_ci.png" group-title="",Radio Jam
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Jam" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/radio-jam.png" group-title="",Radio Jam
 https://listen.radioking.com/radio/61201/stream/98881
+
+#EXTINF:-1 tvg-id="" tvg-name="Trace FM" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/trace-fm.png" group-title="",Trace FM
+http://stream.trace.tv/trace_fm_ci-midfi.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="Africa Radio" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/africa-radio.png" group-title="",Africa Radio
+https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zouglou" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/radiozouglou.png" group-title="",Radio Zouglou
+https://streaming.radionomy.com/RADIOZOUGLOU
+
+#EXTINF:-1 tvg-id="" tvg-name="Skyrock Abidjan" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/skyrock-abidjan.png" group-title="",Skyrock Abidjan
+https://icecast.skyrock.net/s/abidjan_aac_64k
+
+#EXTINF:-1 tvg-id="" tvg-name="HIT RADIO" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/hitradio.png" group-title="",HIT RADIO
+http://plainmaster.bcast.infomaniak.ch:8000/ci-abidjan-96.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="Medi1 Radio" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/medi1.png" group-title="",Medi1 Radio
+http://live.medi1.com/medi3?s=1410541768
+
+#EXTINF:-1 tvg-id="" tvg-name="RFI Afrique" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/rfiafrique.png" group-title="",RFI Afrique
+https://live-reflector.ice.infomaniak.ch/rfiafrique-64.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="RJN" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/radiojn.png" group-title="",RJN
+http://radiojn.ice.infomaniak.ch/radiojn.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="RMC" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/rmc.png" group-title="",RMC
+https://chai5she.cdn.dvmr.fr/rmcinfo
+
+#EXTINF:-1 tvg-id="" tvg-name="Skyrock" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/skyrock.png" group-title="",Skyrock
+http://icecast.skyrock.net/s/natio_mp3_128k?type=.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="NRJ" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/nrj.png" group-title="",NRJ
+http://185.52.127.168/fr/30001/mp3_128.mp3?origine=fluxradios
