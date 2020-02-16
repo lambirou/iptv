@@ -1,0 +1,198 @@
+#EXTM3U
+#EXTINF:-1 ,bein1
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 ,bein2
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:-1 ,bein3
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1 ,BEIN SPORT 1 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 ,BEIN SPORT 2 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:-1 ,BEIN SPORT 3 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1 ,BEIN SPORT 4 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1 ,BEIN SPORT 5 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1 ,beIN Sports 1 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1 ,beIN Sports 2 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1 ,beIN Sports 3 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1 ,beIN Sports 4 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1 ,beIN Sports 5 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1 ,beIN Sports 6 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+
+#EXTINF:-1 ,BT Sport 1HD
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 ,BT Sport 2HD
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1 ,Fox Sport 1 live alemania
+http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
+#EXTINF:-1 ,Eurosport 1HD INGLES
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+#EXTINF:-1 ,Eurosport 2 HD INGLES
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+#EXTINF:-1 ,CT-Sport
+http://95.170.215.118/hls/m3u8/CT-Sport.m3u8
+
+#EXTINF:-1,DSTV: SuperSport MáXimo HD
+http://aliwix-t.online:80/live/supersport/aliwix/1231.ts
+#EXTINF:-1,DSTV: Supersport Blitz HD
+http://aliwix-t.online:80/live/supersport/aliwix/1230.ts
+#EXTINF:-1,DSTV: SuperSport 9 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1226.ts
+#EXTINF:-1,DSTV: SuperSport 8 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1225.ts
+#EXTINF:-1,DSTV: SuperSport 7 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1223.ts
+#EXTINF:-1,DSTV: SuperSport 6 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1224.ts
+#EXTINF:-1,DSTV: SuperSport 5 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1222.ts
+#EXTINF:-1,DSTV: SuperSport 4 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1221.ts
+#EXTINF:-1,DSTV: SuperSport 3 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1220.ts
+#EXTINF:-1,DSTV: SuperSport 2 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1219.ts
+#EXTINF:-1,DSTV: SuperSport 12 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1229.ts
+#EXTINF:-1,DSTV: SuperSport 11 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1228.ts
+#EXTINF:-1,DSTV: SuperSport 10 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1227.ts
+#EXTINF:-1,DSTV: SuperSport 1 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1218.ts
+
+#EXTINF:-1,BEIN SPORT 9 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/963.ts
+#EXTINF:-1,BEIN SPORT 8 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/964.ts
+#EXTINF:-1,BEIN SPORT 7 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/965.ts
+#EXTINF:-1,BEIN SPORT 6 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/966.ts
+#EXTINF:-1,BEIN SPORT 5 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/967.ts
+#EXTINF:-1,BEIN SPORT 4 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/968.ts
+#EXTINF:-1,BEIN SPORT 3 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/969.ts
+#EXTINF:-1,BEIN SPORT 2 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/970.ts
+#EXTINF:-1,BEIN SPORT 10 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/971.ts
+#EXTINF:-1,BEIN SPORT 1 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/972.ts
+
+#EXTINF:-1 ,match onlly
+http://195.154.114.22/hls/103.m3u8
+#EXTINF:-1 ,Bein Sport 1
+http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
+#EXTINF:-1 ,Bein Sport 2
+http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
+#EXTINF:-1 ,Bein Sport 4
+http://95.170.215.101/hls/m3u8/Bein-S4-gf.m3u8
+#EXTINF:-1 ,Bein Sport 5
+http://95.170.215.101/hls/m3u8/Bein-S5-sx.m3u8
+#EXTINF:-1 ,Bein Sport 6
+http://95.170.215.101/hls/m3u8/Bein-S6-vnb.m3u8
+
+#EXTINF:0,BeinSport1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:0,BeinSport2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:0,BeinSport3
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:0,BeinSport4
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:0,BeinSport5
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:0,BeinSport6
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:0,BeinSport7
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport7.m3u8
+#EXTINF:0,BeinSport8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport8.m3u8
+#EXTINF:0,BeinSport9
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport9.m3u8
+#EXTINF:0,BeinSport10
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport10.m3u8
+
+
+#EXTINF:0,Bein Sport 1 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/13.ts
+#EXTINF:0,Bein Sport 2 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/14.ts
+#EXTINF:0,Bein Sport 3 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/15.ts
+#EXTINF:0,Bein Sport 4 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/16.ts
+#EXTINF:0,Bein Sport 5 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/17.ts
+#EXTINF:0,Bein Sport 6 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/18.ts
+#EXTINF:0,Bein Sport 7 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/19.ts
+#EXTINF:0,Bein Sport 8 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/20.ts
+#EXTINF:0,Bein Sport 9 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/21.ts
+#EXTINF:0,Bein Sport 10 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/22.ts
+#EXTINF:0,Bein Sport 1 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/3.ts
+#EXTINF:0,Bein Sport 2 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/4.ts
+#EXTINF:0,Bein Sport 3 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/5.ts
+#EXTINF:0,Bein Sport 4 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/6.ts
+#EXTINF:0,Bein Sport 5 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/7.ts
+#EXTINF:0,Bein Sport 6 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/8.ts
+#EXTINF:0,Bein Sport 7 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/9.ts
+#EXTINF:0,Bein Sport 8 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/10.ts
+#EXTINF:0,Bein Sport 9 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/11.ts
+#EXTINF:0,Bein Sport 10 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/12.ts
