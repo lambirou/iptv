@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,bein1
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1 ,bein2
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-#EXTINF:-1 ,bein3
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
 #EXTINF:-1 ,BEIN SPORT 1 HD
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
@@ -15,6 +10,7 @@ http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
 #EXTINF:-1 ,BEIN SPORT 5 HD
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+
 #EXTINF:-1 ,beIN Sports 1 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
 #EXTINF:-1 ,beIN Sports 2 Arab
@@ -28,68 +24,55 @@ http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
 #EXTINF:-1 ,beIN Sports 6 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
 
-#EXTINF:-1 ,BT Sport 1HD
-http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
-#EXTINF:-1 ,BT Sport 2HD
-http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
-#EXTINF:-1 ,Fox Sport 1 live alemania
-http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
-#EXTINF:-1 ,Eurosport 1HD INGLES
-http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
-#EXTINF:-1 ,Eurosport 2 HD INGLES
-http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
-#EXTINF:-1 ,CT-Sport
-http://95.170.215.118/hls/m3u8/CT-Sport.m3u8
-
+#EXTINF:-1,DSTV: SuperSport 1 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1218.ts
+#EXTINF:-1,DSTV: SuperSport 2 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1219.ts
+#EXTINF:-1,DSTV: SuperSport 3 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1220.ts
+#EXTINF:-1,DSTV: SuperSport 4 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1221.ts
+#EXTINF:-1,DSTV: SuperSport 5 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1222.ts
+#EXTINF:-1,DSTV: SuperSport 6 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1224.ts
+#EXTINF:-1,DSTV: SuperSport 7 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1223.ts
+#EXTINF:-1,DSTV: SuperSport 8 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1225.ts
+#EXTINF:-1,DSTV: SuperSport 9 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1226.ts
+#EXTINF:-1,DSTV: SuperSport 10 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1227.ts
+#EXTINF:-1,DSTV: SuperSport 11 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1228.ts
+#EXTINF:-1,DSTV: SuperSport 12 HD
+http://aliwix-t.online:80/live/supersport/aliwix/1229.ts
 #EXTINF:-1,DSTV: SuperSport MáXimo HD
 http://aliwix-t.online:80/live/supersport/aliwix/1231.ts
 #EXTINF:-1,DSTV: Supersport Blitz HD
 http://aliwix-t.online:80/live/supersport/aliwix/1230.ts
-#EXTINF:-1,DSTV: SuperSport 9 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1226.ts
-#EXTINF:-1,DSTV: SuperSport 8 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1225.ts
-#EXTINF:-1,DSTV: SuperSport 7 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1223.ts
-#EXTINF:-1,DSTV: SuperSport 6 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1224.ts
-#EXTINF:-1,DSTV: SuperSport 5 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1222.ts
-#EXTINF:-1,DSTV: SuperSport 4 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1221.ts
-#EXTINF:-1,DSTV: SuperSport 3 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1220.ts
-#EXTINF:-1,DSTV: SuperSport 2 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1219.ts
-#EXTINF:-1,DSTV: SuperSport 12 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1229.ts
-#EXTINF:-1,DSTV: SuperSport 11 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1228.ts
-#EXTINF:-1,DSTV: SuperSport 10 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1227.ts
-#EXTINF:-1,DSTV: SuperSport 1 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1218.ts
 
-#EXTINF:-1,BEIN SPORT 9 LOW
-http://aliwix-t.online:80/live/beinlow/aliwix/963.ts
-#EXTINF:-1,BEIN SPORT 8 LOW
-http://aliwix-t.online:80/live/beinlow/aliwix/964.ts
-#EXTINF:-1,BEIN SPORT 7 LOW
-http://aliwix-t.online:80/live/beinlow/aliwix/965.ts
-#EXTINF:-1,BEIN SPORT 6 LOW
-http://aliwix-t.online:80/live/beinlow/aliwix/966.ts
-#EXTINF:-1,BEIN SPORT 5 LOW
-http://aliwix-t.online:80/live/beinlow/aliwix/967.ts
-#EXTINF:-1,BEIN SPORT 4 LOW
-http://aliwix-t.online:80/live/beinlow/aliwix/968.ts
-#EXTINF:-1,BEIN SPORT 3 LOW
-http://aliwix-t.online:80/live/beinlow/aliwix/969.ts
-#EXTINF:-1,BEIN SPORT 2 LOW
-http://aliwix-t.online:80/live/beinlow/aliwix/970.ts
-#EXTINF:-1,BEIN SPORT 10 LOW
-http://aliwix-t.online:80/live/beinlow/aliwix/971.ts
 #EXTINF:-1,BEIN SPORT 1 LOW
 http://aliwix-t.online:80/live/beinlow/aliwix/972.ts
+#EXTINF:-1,BEIN SPORT 2 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/970.ts
+#EXTINF:-1,BEIN SPORT 3 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/969.ts
+#EXTINF:-1,BEIN SPORT 4 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/968.ts
+#EXTINF:-1,BEIN SPORT 5 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/967.ts
+#EXTINF:-1,BEIN SPORT 6 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/966.ts
+#EXTINF:-1,BEIN SPORT 7 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/965.ts
+#EXTINF:-1,BEIN SPORT 8 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/964.ts
+#EXTINF:-1,BEIN SPORT 9 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/963.ts
+#EXTINF:-1,BEIN SPORT 10 LOW
+http://aliwix-t.online:80/live/beinlow/aliwix/971.ts
 
 #EXTINF:-1 ,match onlly
 http://195.154.114.22/hls/103.m3u8
