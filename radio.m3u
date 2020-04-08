@@ -22,6 +22,9 @@ https://streaming.radionomy.com/RADIOZOUGLOU
 #EXTINF:-1 tvg-id="" tvg-name="Skyrock Abidjan" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/skyrock-abidjan.png" group-title="",Skyrock Abidjan
 https://icecast.skyrock.net/s/abidjan_aac_64k
 
+#EXTINF:-1 tvg-id="" tvg-name="IVOIRMIX RADIO" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/ivoirmix.png" group-title="",IVOIRMIX RADIO
+https://listen.radioking.com/radio/289867/stream/336058
+
 #EXTINF:-1 tvg-id="" tvg-name="HIT RADIO" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/hitradio.png" group-title="",HIT RADIO
 http://plainmaster.bcast.infomaniak.ch:8000/ci-abidjan-96.mp3
 
