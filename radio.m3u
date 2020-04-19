@@ -29,7 +29,7 @@ https://listen.radioking.com/radio/289867/stream/336058
 https://listen.radioking.com/radio/164353/stream/205408?r=261121
 
 #EXTINF:-1 tvg-id="" tvg-name="HIT RADIO" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/hitradio.png" group-title="",HIT RADIO
-http://plainmaster.bcast.infomaniak.ch:8000/ci-abidjan-96.mp3
+https://hrci.ice.infomaniak.ch/ci-abidjan-128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="Medi1 Radio" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/lambirou/iptv/master/images/radio/medi1.png" group-title="",Medi1 Radio
 http://live.medi1.com/medi3?s=1410541768
